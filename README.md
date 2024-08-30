@@ -1,8 +1,9 @@
 # Welcome to My Profile!
-Hi, I’m Aidan Dyga. I'm a computer science and economics student at Allegheny College.
-I am interested in technology and its intersection with finance. I love to learn new things, 
-and I am always open to collaborating on projects and ideas. I have experience in Python, Java,
-Javascript, HTML, and CSS. You can reach me on my LinkedIn if you would like to connect.
+Hi, I’m Aidan Dyga, a computer science and economics student at Allegheny College. I’m
+interested in technology and its intersection with finance. I love learning new things and am always
+open to collaborating on projects and ideas. I have experience in Python, Java, C, JavaScript,
+HTML, CSS, and various other languages, libraries, and tools. If you’d like to connect, feel free to
+reach out to me on LinkedIn.
 
 
 <!---
