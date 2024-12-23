@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Aidan Dyga, a computer science and economics student at Allegheny College. I’m interested in technology and its intersection with finance. I love learning new things and am always open to collaborating on projects and ideas. 
+Hi, I’m Aidan Dyga, a computer science and economics student at Allegheny College. I love learning new things and am always open to collaborating on projects and ideas. 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aidandyga) 
 
